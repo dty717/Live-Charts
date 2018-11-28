@@ -1,0 +1,1 @@
+cd C:\Users\xqy\Desktop\github\Live-Charts && "C:\Windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe"  /p:configuration=debug /p:Platform="Any CPU"
